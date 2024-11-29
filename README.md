@@ -25,6 +25,7 @@ Este proyecto es un sistema **cliente-servidor** desarrollado en **Java**, dise�
    - Base de datos `cine_db` creada en MySQL.
    - Esquema básico con tablas para:
      - `usuarios`: Información básica de los usuarios.
+     - `peliculas`: Información básica de las peliculas.
      - `funciones`: Detalles de las funciones de cine.
      - `boletos`: Estado y asignación de asientos para las funciones.
 
